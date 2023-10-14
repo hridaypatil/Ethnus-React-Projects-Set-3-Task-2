@@ -1,2 +1,2 @@
-# Ethnus-React-Projects-Set-3-Task-2
-Task-2
+![Task2](task2.png)
+https://react-calculator-iota-orpin.vercel.app/
